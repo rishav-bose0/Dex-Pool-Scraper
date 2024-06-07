@@ -1,0 +1,202 @@
+network,base_token,pool_name,pool_link,pool_address,liquidity_in_usd
+bsc,WHY ,WHY / WBNB 1%,https://www.geckoterminal.com//bsc/pools/0x6cd061334aafee6cdd5bc5c958e71f769d7ca8cc,0x6cd061334aafee6cdd5bc5c958e71f769d7ca8cc,10100000
+bsc,ARTY ,ARTY / USDT,https://www.geckoterminal.com//bsc/pools/0xcbb86aa862e98c17a647100436c848d0c0050043,0xcbb86aa862e98c17a647100436c848d0c0050043,134780
+bsc,VOPO ,VOPO / WBNB 0.25%,https://www.geckoterminal.com//bsc/pools/0xcd583803fcb3ac2bfab79961d4bd1eb6d5b7730a,0xcd583803fcb3ac2bfab79961d4bd1eb6d5b7730a,494110
+bsc,BCCoin ,BCCoin / USDT 0.01%,https://www.geckoterminal.com//bsc/pools/0x5c9c0920e5f37856ac44810154f77e99dd2b5d41,0x5c9c0920e5f37856ac44810154f77e99dd2b5d41,1110000000
+bsc,FLOKI ,FLOKI / WBNB,https://www.geckoterminal.com//bsc/pools/0x231d9e7181e8479a8b40930961e93e7ed798542c,0x231d9e7181e8479a8b40930961e93e7ed798542c,28740000
+bsc,FLOKITA ,FLOKITA / WBNB,https://www.geckoterminal.com//bsc/pools/0x641f4516deb6c953d6edad888f3cf73f58d99fd9,0x641f4516deb6c953d6edad888f3cf73f58d99fd9,327640
+bsc,PNIC ,PNIC / USDT 0.01%,https://www.geckoterminal.com//bsc/pools/0x86cbfa773cb2dd5a3a9b8cac91f63dfa05b558a9,0x86cbfa773cb2dd5a3a9b8cac91f63dfa05b558a9,1350000000
+bsc,CAT ,CAT / WBNB,https://www.geckoterminal.com//bsc/pools/0x63230caefc0f8220536db18136b83b5098b5acbc,0x63230caefc0f8220536db18136b83b5098b5acbc,1160000
+bsc,USDT ,USDT / WBNB 0.05%,https://www.geckoterminal.com//bsc/pools/0x36696169c63e42cd08ce11f5deebbcebae652050,0x36696169c63e42cd08ce11f5deebbcebae652050,52180000
+bsc,Cake ,Cake / WBNB,https://www.geckoterminal.com//bsc/pools/0x0ed7e52944161450477ee417de9cd3a859b14fd0,0x0ed7e52944161450477ee417de9cd3a859b14fd0,71120000
+bsc,BabyDoge ,BabyDoge / WBNB,https://www.geckoterminal.com//bsc/pools/0xc736ca3d9b1e90af4230bd8f9626528b3d4e0ee0,0xc736ca3d9b1e90af4230bd8f9626528b3d4e0ee0,27330000
+bsc,DOGEMOB ,DOGEMOB / WBNB,https://www.geckoterminal.com//bsc/pools/0x153056c5c8ff923f06c2945286e00676c85a15b9,0x153056c5c8ff923f06c2945286e00676c85a15b9,1810000
+bsc,BTCB ,BTCB / WBNB 0.05%,https://www.geckoterminal.com//bsc/pools/0x6bbc40579ad1bbd243895ca0acb086bb6300d636,0xfc75f4e78bf71ed5066db9ca771d4ccb7c1264e0,5040000
+bsc,CBP ,CBP / USDT,https://www.geckoterminal.com//bsc/pools/0xd5500127815605cf277a6685b1cd56a1042f362a,0xd5500127815605cf277a6685b1cd56a1042f362a,134490
+bsc,SpacePi ,SpacePi / WBNB,https://www.geckoterminal.com//bsc/pools/0x7f1b11a798273da438b4b132df1383d8387e73b4,0x7f1b11a798273da438b4b132df1383d8387e73b4,1900000
+bsc,MTC ,MTC / USDT,https://www.geckoterminal.com//bsc/pools/0x0082792bee5aea77c15c6af53fffee6125540376,0x0082792bee5aea77c15c6af53fffee6125540376,3400000
+bsc,NMT ,NMT / USDC,https://www.geckoterminal.com//bsc/pools/0x118e37aff646d58707d553f39293feffd4be1a2b,0x118e37aff646d58707d553f39293feffd4be1a2b,9950000
+bsc,DOGE ,DOGE / WBNB 0.25%,https://www.geckoterminal.com//bsc/pools/0xce6160bb594fc055c943f59de92cee30b8c6b32c,0xce6160bb594fc055c943f59de92cee30b8c6b32c,1750000
+bsc,PVC ,PVC / USDT 0.05%,https://www.geckoterminal.com//bsc/pools/0x9b6d825e16df17b5ea416319e1ac0b85ecd9be19,0x9b6d825e16df17b5ea416319e1ac0b85ecd9be19,372280
+bsc,HAM ,HAM / WBNB,https://www.geckoterminal.com//bsc/pools/0x99bf9cc0154655c5e913b752984a92ad391afe32,0x99bf9cc0154655c5e913b752984a92ad391afe32,1060000
+bsc,BabyBonk ,BabyBonk / WBNB,https://www.geckoterminal.com//bsc/pools/0xf2b4c08e43f389190372a80c83655cb8ce0c2f94,0xf2b4c08e43f389190372a80c83655cb8ce0c2f94,1960000
+bsc,O4DX ,O4DX / USDT 0.25%,https://www.geckoterminal.com//bsc/pools/0xf219a1008ad113b2d9964cbc1d6dc22d7fec425e,0xf219a1008ad113b2d9964cbc1d6dc22d7fec425e,208600
+bsc,Pi ,Pi / USDM,https://www.geckoterminal.com//bsc/pools/0xf391410a1e790416024b9b31e8c7fb36b6b9c497,0xf391410a1e790416024b9b31e8c7fb36b6b9c497,410530000
+bsc,MGC ,MGC / WBNB,https://www.geckoterminal.com//bsc/pools/0xc08019ea4988bcce9dc4c2ee983e431a885d2f1a,0xc08019ea4988bcce9dc4c2ee983e431a885d2f1a,4940000
+bsc,PUMP ,PUMP / WBNB 1%,https://www.geckoterminal.com//bsc/pools/0xe9f6d2f5bc6b6606755a5836f97eda11561cca7b,0xe9f6d2f5bc6b6606755a5836f97eda11561cca7b,2500000
+bsc,BURGER ,BURGER / WBNB,https://www.geckoterminal.com//bsc/pools/0xd937fb9e6e47f3805981453bfb277a49fffe04d7,0xd937fb9e6e47f3805981453bfb277a49fffe04d7,63190
+bsc,MBT ,MBT / WBNB,https://www.geckoterminal.com//bsc/pools/0x9d9ed46db791bf25565eb3cbafb1f62b46d18811,0x9d9ed46db791bf25565eb3cbafb1f62b46d18811,642630
+bsc,BabyPepe ,BabyPepe / WBNB,https://www.geckoterminal.com//bsc/pools/0x583140b20e974493d5a299d1142408aa8a1c098e,0x583140b20e974493d5a299d1142408aa8a1c098e,323350
+bsc,THE ,THE / WBNB 1%,https://www.geckoterminal.com//bsc/pools/0x51bd5e6d3da9064d59bcaa5a76776560ab42ceb8,0x51bd5e6d3da9064d59bcaa5a76776560ab42ceb8,1910000
+bsc,BabyTrump ,BabyTrump / WBNB,https://www.geckoterminal.com//bsc/pools/0xd7b36155e1f82b9307d2db4d99151a9dd169bfbb,0xd7b36155e1f82b9307d2db4d99151a9dd169bfbb,669690
+bsc,FRGX ,FRGX / WBNB,https://www.geckoterminal.com//bsc/pools/0x55f303a94b8b085917459ae7e0b252b0e20b5add,0x55f303a94b8b085917459ae7e0b252b0e20b5add,254850
+bsc,CATGIRL ,CATGIRL / WBNB,https://www.geckoterminal.com//bsc/pools/0x252c6e5a2b8eca987b2678618546c388b9b4b933,0x252c6e5a2b8eca987b2678618546c388b9b4b933,6550000
+bsc,GC ,GC / USDT 0.01%,https://www.geckoterminal.com//bsc/pools/0xbe6494e2b4f5a1200afe9f915b52962544c83f65,0xbe6494e2b4f5a1200afe9f915b52962544c83f65,694150
+bsc,MOCHI ,MOCHI / WBNB,https://www.geckoterminal.com//bsc/pools/0xeb555c4ca3ba9c0ae7f9dfbcd9383caebea6c8b9,0xeb555c4ca3ba9c0ae7f9dfbcd9383caebea6c8b9,225070
+bsc,CGPT ,CGPT / USDT 0.05%,https://www.geckoterminal.com//bsc/pools/0x1e8d7ab96323953fac85ab687f5d38b45344e62d,0x1e8d7ab96323953fac85ab687f5d38b45344e62d,3800000
+bsc,CATA ,CATA / WBNB,https://www.geckoterminal.com//bsc/pools/0xcdf7535c9384379a8c0989821a722a095d2353f5,0xcdf7535c9384379a8c0989821a722a095d2353f5,833510
+bsc,FRBK ,FRBK / USDT,https://www.geckoterminal.com//bsc/pools/0xc522bdd2eab2501e8136a9dc874e738bd026f91a,0xc522bdd2eab2501e8136a9dc874e738bd026f91a,185510
+bsc,Alita ,Alita / WBNB,https://www.geckoterminal.com//bsc/pools/0x0ea66dccb30eeaa0835113f121670c72d312ad19,0x0ea66dccb30eeaa0835113f121670c72d312ad19,1340000
+bsc,AITECH ,AITECH / USDT 0.25%,https://www.geckoterminal.com//bsc/pools/0x55458175c5f5d34b9bd01c81f172780ed4271b23,0x55458175c5f5d34b9bd01c81f172780ed4271b23,1220000
+bsc,TWT ,TWT / WBNB 0.25%,https://www.geckoterminal.com//bsc/pools/0x8ccb4544b3030dacf3d4d71c658f04e8688e25b1,0x8ccb4544b3030dacf3d4d71c658f04e8688e25b1,467820
+bsc,GMRX ,GMRX / WBNB 0.25%,https://www.geckoterminal.com//bsc/pools/0x692cb71a629aa90a8ed6c6b6e56ce4d86760dd43,0x692cb71a629aa90a8ed6c6b6e56ce4d86760dd43,519690
+bsc,CATME ,CATME / WBNB,https://www.geckoterminal.com//bsc/pools/0x0654c33fb3021eeabf2725bdc1533faf02dc9743,0x0654c33fb3021eeabf2725bdc1533faf02dc9743,153160
+bsc,MEMEAI ,MEMEAI / WBNB,https://www.geckoterminal.com//bsc/pools/0x7952e9e1ec473446990b724bf80c3d4fcca50424,0x7952e9e1ec473446990b724bf80c3d4fcca50424,781260
+bsc,CHAPZ ,CHAPZ / USDT,https://www.geckoterminal.com//bsc/pools/0x33f675e6802bb5aa15dd797d716436df0d8cd372,0x33f675e6802bb5aa15dd797d716436df0d8cd372,428700
+bsc,DOGA ,DOGA / WBNB,https://www.geckoterminal.com//bsc/pools/0x7dd6ecd77c6fc33ce9a66f96e135c124b8524a55,0x7dd6ecd77c6fc33ce9a66f96e135c124b8524a55,308000
+bsc,BCOIN ,BCOIN / WBNB,https://www.geckoterminal.com//bsc/pools/0x2eebe0c34da9ba65521e98cbaa7d97496d05f489,0x2eebe0c34da9ba65521e98cbaa7d97496d05f489,301770
+bsc,TOKEN ,TOKEN / WBNB,https://www.geckoterminal.com//bsc/pools/0x05616b7b6da03fb4c773b76663816b360ccaede4,0x05616b7b6da03fb4c773b76663816b360ccaede4,10850000
+bsc,MINU ,MINU / WBNB,https://www.geckoterminal.com//bsc/pools/0x91d8d7dfcadc8e04195e75069e1316e01ba7f01c,0x91d8d7dfcadc8e04195e75069e1316e01ba7f01c,345550
+bsc,GQ ,GQ / BUSD,https://www.geckoterminal.com//bsc/pools/0x72121d60b0e2f01c0fb7fe32ca24021b42165a40,0x72121d60b0e2f01c0fb7fe32ca24021b42165a40,469120
+bsc,CKP ,CKP / WBNB 0.25%,https://www.geckoterminal.com//bsc/pools/0x8b626acfb32cdad0d2f3b493eb9928bba1bbbcca,0x8b626acfb32cdad0d2f3b493eb9928bba1bbbcca,5460000
+bsc,CC ,CC / USDT,https://www.geckoterminal.com//bsc/pools/0x9b10878e2abd0b8e4ecc329342a0e9f75ec48150,0x9b10878e2abd0b8e4ecc329342a0e9f75ec48150,5690000
+bsc,When ,When / WBNB,https://www.geckoterminal.com//bsc/pools/0xdc6d9a350f1b0678676c7990ff44260bebb6ac68,0xdc6d9a350f1b0678676c7990ff44260bebb6ac68,75190
+bsc,MBOX ,MBOX / WBNB,https://www.geckoterminal.com//bsc/pools/0x8fa59693458289914db0097f5f366d771b7a7c3f,0x8fa59693458289914db0097f5f366d771b7a7c3f,16120000
+bsc,NEAR ,NEAR / WBNB 0.25%,https://www.geckoterminal.com//bsc/pools/0x0246913ec96765bca457b0a3608872bba37d1d15,0x0246913ec96765bca457b0a3608872bba37d1d15,604560
+bsc,ICE ,ICE / WBNB 0.25%,https://www.geckoterminal.com//bsc/pools/0xd0e925a1c22e30a363283d79ebf5a901cf928b95,0xd0e925a1c22e30a363283d79ebf5a901cf928b95,267900
+bsc,TRIAS ,TRIAS / BUSD,https://www.geckoterminal.com//bsc/pools/0x118ed46a6ea1ad0938cd637536d4351734ce16ee,0x118ed46a6ea1ad0938cd637536d4351734ce16ee,822450
+bsc,BRISE ,BRISE / WBNB,https://www.geckoterminal.com//bsc/pools/0x7dd308207c0e700466cafda79f0218d898c211f8,0x7dd308207c0e700466cafda79f0218d898c211f8,1580000
+bsc,MGP ,MGP / WBNB 0.25%,https://www.geckoterminal.com//bsc/pools/0x088464e4e8cc54bf91180cbb8c61c68aecc74166,0x088464e4e8cc54bf91180cbb8c61c68aecc74166,2280000
+bsc,LAND ,LAND / WBNB,https://www.geckoterminal.com//bsc/pools/0x13f80c53b837622e899e1ac0021ed3d1775caefa,0x13f80c53b837622e899e1ac0021ed3d1775caefa,2300000
+bsc,DLY ,DLY / WBNB,https://www.geckoterminal.com//bsc/pools/0x09cbc1b75cfe30cc7e9307678ba504e2e98ca646,0x09cbc1b75cfe30cc7e9307678ba504e2e98ca646,456020
+bsc,ORE ,ORE / WBNB,https://www.geckoterminal.com//bsc/pools/0xbe133cdc784fa5d24cdf90750b463f9f17059c96,0xbe133cdc784fa5d24cdf90750b463f9f17059c96,50160
+bsc,TONCOIN ,TONCOIN / WBNB 0.25%,https://www.geckoterminal.com//bsc/pools/0x43beb5b09ac912c4288db731fe7c30507e252c2a,0x43beb5b09ac912c4288db731fe7c30507e252c2a,447390
+bsc,HODL ,HODL / WBNB,https://www.geckoterminal.com//bsc/pools/0x1787f4566947b685f28f281a68c214e5d7fe85cf,0x1787f4566947b685f28f281a68c214e5d7fe85cf,2620000
+bsc,HELLO ,HELLO / WBNB,https://www.geckoterminal.com//bsc/pools/0x54e6358f24927c259aaf53aa230b56e2d27b5810,0x54e6358f24927c259aaf53aa230b56e2d27b5810,2700000
+bsc,GTAI ,GTAI / USDT 0.25%,https://www.geckoterminal.com//bsc/pools/0xb24cd29e32facddf9e73831d5cd1ffcd1e535423,0xb24cd29e32facddf9e73831d5cd1ffcd1e535423,493220
+bsc,STC ,STC / WBNB,https://www.geckoterminal.com//bsc/pools/0xe29ba9023b76588ba563a3d1450def351c165ae4,0xe29ba9023b76588ba563a3d1450def351c165ae4,935550
+bsc,CREO ,CREO / BUSD,https://www.geckoterminal.com//bsc/pools/0xfb0df0694bf42aba6b54c8fb488da9a2ca82c33a,0xfb0df0694bf42aba6b54c8fb488da9a2ca82c33a,1070000
+bsc,XRP ,XRP / WBNB 0.25%,https://www.geckoterminal.com//bsc/pools/0xd15b00e81f98a7db25f1dc1ba6e983a4316c4cac,0xd15b00e81f98a7db25f1dc1ba6e983a4316c4cac,567520
+bsc,WBNB ,WBNB / BUSD,https://www.geckoterminal.com//bsc/pools/0x58f876857a02d6762e0101bb5c46a8c1ed44dc16,0x58f876857a02d6762e0101bb5c46a8c1ed44dc16,9710000
+bsc,VC ,VC / USDT 0.25%,https://www.geckoterminal.com//bsc/pools/0xc6dddcf94e53f8997dab999a32a3aa8fd3f7f106,0xc6dddcf94e53f8997dab999a32a3aa8fd3f7f106,359810
+bsc,METFI ,METFI / USDT,https://www.geckoterminal.com//bsc/pools/0x69a8e2d2047541f08c50f7bc611dd48656981c99,0x43035d67b163742fd3f3cd1310d6c2fbe17c82f6,735590
+bsc,TRUMP ,TRUMP / WBNB 0.25%,https://www.geckoterminal.com//bsc/pools/0x032ab93b734bef57d98552eb56839f0995d4fb28,0x032ab93b734bef57d98552eb56839f0995d4fb28,540370
+bsc,ADA ,ADA / WBNB 0.25%,https://www.geckoterminal.com//bsc/pools/0x673516e510d702ab5f2bbf0c6b545111a85f7ea7,0x673516e510d702ab5f2bbf0c6b545111a85f7ea7,1140000
+bsc,GrokCat ,GrokCat / WBNB,https://www.geckoterminal.com//bsc/pools/0x608af8006c8b027855d46f6a851141df1948c96e,0x608af8006c8b027855d46f6a851141df1948c96e,442470
+bsc,BabyGrok ,BabyGrok / WBNB,https://www.geckoterminal.com//bsc/pools/0xda574013e8e67e822d0547d9cd9e8e1075827e3a,0xda574013e8e67e822d0547d9cd9e8e1075827e3a,1580000
+bsc,MMIT ,MMIT / WBNB,https://www.geckoterminal.com//bsc/pools/0x7f36fded4229f37e409ddebf42e8860e5acf4b26,0x7f36fded4229f37e409ddebf42e8860e5acf4b26,610140
+bsc,LQR ,LQR / WBNB 0.01%,https://www.geckoterminal.com//bsc/pools/0x4b30fff989b65d7531c65f930c18778d85335c6c,0x4b30fff989b65d7531c65f930c18778d85335c6c,112080
+bsc,SFUND ,SFUND / WBNB,https://www.geckoterminal.com//bsc/pools/0x74fa517715c4ec65ef01d55ad5335f90dce7cc87,0x74fa517715c4ec65ef01d55ad5335f90dce7cc87,10760000
+bsc,BNX ,BNX / USDT 0.05%,https://www.geckoterminal.com//bsc/pools/0xfab21cb9467e9badd22a2de57bcde5f53d925973,0xfab21cb9467e9badd22a2de57bcde5f53d925973,2800000
+bsc,burn ,burn / WBNB,https://www.geckoterminal.com//bsc/pools/0x4c3d9b707175654e67a244bd3b2480ef57842ce9,0x4c3d9b707175654e67a244bd3b2480ef57842ce9,521960
+bsc,CATBOY ,CATBOY / WBNB,https://www.geckoterminal.com//bsc/pools/0xeba4bf6a129b7f6efb6650d296f5aa936062878e,0xeba4bf6a129b7f6efb6650d296f5aa936062878e,542490
+bsc,ENTS ,ENTS / WBNB 0.25%,https://www.geckoterminal.com//bsc/pools/0x91b3abdcb5226733338b1a1aeb4b546618eea4e1,0x91b3abdcb5226733338b1a1aeb4b546618eea4e1,4420000
+bsc,LAI ,LAI / USDT 0.25%,https://www.geckoterminal.com//bsc/pools/0xb2e7da5063caaf0319427eacb1ad602f2767f80c,0xb2e7da5063caaf0319427eacb1ad602f2767f80c,310940
+bsc,PEPE ,PEPE / WBNB 1%,https://www.geckoterminal.com//bsc/pools/0xdd82975ab85e745c84e497fd75ba409ec02d4739,0xdd82975ab85e745c84e497fd75ba409ec02d4739,918690
+bsc,TABOO ,TABOO / WBNB,https://www.geckoterminal.com//bsc/pools/0xb4e7b227d344c8ba1604ae241898e02da3d1fe63,0xb4e7b227d344c8ba1604ae241898e02da3d1fe63,686130
+bsc,BUNNY ,BUNNY / WBNB,https://www.geckoterminal.com//bsc/pools/0x5afef8567414f29f0f927a0f2787b188624c10e2,0x5afef8567414f29f0f927a0f2787b188624c10e2,274930
+bsc,FET ,FET / WBNB 0.25%,https://www.geckoterminal.com//bsc/pools/0x3b649abb1050ed0294f14de88c47110e72aa24d5,0x41bf5eeae051fbd2e97b76b5f8f0fdcc1a1e526b,734350
+bsc,MADPEPE ,MADPEPE / WBNB,https://www.geckoterminal.com//bsc/pools/0x23048517c1a2c693a28ead89173f5406b8d14978,0x23048517c1a2c693a28ead89173f5406b8d14978,58540
+bsc,liveThe ,liveThe / THE,https://www.geckoterminal.com//bsc/pools/0x3765476bffe43cf4c0656bf3a7529c54ae247056,0x3765476bffe43cf4c0656bf3a7529c54ae247056,2880000
+bsc,ETH ,ETH / WBNB 0.05%,https://www.geckoterminal.com//bsc/pools/0x0f338ec12d3f7c3d77a4b9fcc1f95f3fb6ad0ea6,0x1123e75b71019962cd4d21b0f3018a6412edb63c,8580000
+bsc,ATC ,ATC / USDT,https://www.geckoterminal.com//bsc/pools/0x01deba364164696fc92a1f7baf8efdb4f56f44ee,0x01deba364164696fc92a1f7baf8efdb4f56f44ee,272980
+bsc,TRUNK ,TRUNK / BUSD,https://www.geckoterminal.com//bsc/pools/0xf15a72b15fc4caed6fadb1ba7347f6ccd1e0aede,0xf15a72b15fc4caed6fadb1ba7347f6ccd1e0aede,11610000
+bsc,CUMMIES ,CUMMIES / WBNB,https://www.geckoterminal.com//bsc/pools/0x02bff262b10b7ae1d2e4455ad4cae2d0a6ecf086,0x02bff262b10b7ae1d2e4455ad4cae2d0a6ecf086,1190000
+bsc,LINK ,LINK / WBNB 0.25%,https://www.geckoterminal.com//bsc/pools/0x0e1893beeb4d0913d26b9614b18aea29c56d94b9,0x0e1893beeb4d0913d26b9614b18aea29c56d94b9,811740
+bsc,RIO ,RIO / WBNB 0.25%,https://www.geckoterminal.com//bsc/pools/0x3b4568933f86122e3a19814b1d42aa27fe429c3b,0x3b4568933f86122e3a19814b1d42aa27fe429c3b,1770000
+bsc,BabyElon ,BabyElon / WBNB,https://www.geckoterminal.com//bsc/pools/0x04c6c9ed900ec87b52df1c664d1ac16650398421,0x04c6c9ed900ec87b52df1c664d1ac16650398421,479540
+bsc,OFN ,OFN / USDT 0.05%,https://www.geckoterminal.com//bsc/pools/0x2296cbbefeaef6c0b07db56f75d769c0d357b5be,0x2296cbbefeaef6c0b07db56f75d769c0d357b5be,563470
+bsc,SCORP ,SCORP / WBNB 1%,https://www.geckoterminal.com//bsc/pools/0x1b2eb11fcbc0047851ea1eccff7a225959778235,0x1b2eb11fcbc0047851ea1eccff7a225959778235,116960
+bsc,RACA ,RACA / WBNB,https://www.geckoterminal.com//bsc/pools/0xc016f93d1b11878804c345e93c8588794480cd83,0xc016f93d1b11878804c345e93c8588794480cd83,237960
+bsc,BNBTiger ,BNBTiger / WBNB,https://www.geckoterminal.com//bsc/pools/0x5e1aab9d49f6c7122df7de4d6dbd5b03c1ebb0b7,0x5e1aab9d49f6c7122df7de4d6dbd5b03c1ebb0b7,1110000
+bsc,ORT ,ORT / BUSD,https://www.geckoterminal.com//bsc/pools/0x23cc47b108236d454dfbef0c89f368f3a1ccf266,0x23cc47b108236d454dfbef0c89f368f3a1ccf266,96700
+bsc,NIX ,NIX / WBNB,https://www.geckoterminal.com//bsc/pools/0x7f01f344b1950a3c5ea3b9db7017f93ab0c8f88e,0x7f01f344b1950a3c5ea3b9db7017f93ab0c8f88e,214140
+bsc,BOOM ,BOOM / USDT,https://www.geckoterminal.com//bsc/pools/0xbec6d4d2656e4a485b9fc3040dde84bcf07f8098,0xbec6d4d2656e4a485b9fc3040dde84bcf07f8098,818570
+bsc,CWS ,CWS / WBNB,https://www.geckoterminal.com//bsc/pools/0xd61d66708ee2bd003c6193506b9a24d7820b9762,0xd61d66708ee2bd003c6193506b9a24d7820b9762,197760
+bsc,VIA ,VIA / USDT 0.25%,https://www.geckoterminal.com//bsc/pools/0x0125ac49a5c06ccfd0819e6e20ccbe09bde35140,0x0125ac49a5c06ccfd0819e6e20ccbe09bde35140,379920
+bsc,AGO ,AGO / WBNB 0.01%,https://www.geckoterminal.com//bsc/pools/0x34da342c2f46ceaff94d48c46fb798d44f61680b,0x34da342c2f46ceaff94d48c46fb798d44f61680b,317270
+bsc,MOVE ,MOVE / WBNB,https://www.geckoterminal.com//bsc/pools/0xfec2bec0f032462e6e1bc8cb97ccde7c93be4a3b,0xfec2bec0f032462e6e1bc8cb97ccde7c93be4a3b,193060
+bsc,GRV ,GRV / WBNB,https://www.geckoterminal.com//bsc/pools/0x96fef7f7d5a2302bdd116d47e010689adc1cbce6,0x96fef7f7d5a2302bdd116d47e010689adc1cbce6,271260
+bsc,Sorai ,Sorai / WBNB,https://www.geckoterminal.com//bsc/pools/0xa04b2786f37293c0108ff8bdf033bbb3855f15fa,0xa04b2786f37293c0108ff8bdf033bbb3855f15fa,616850
+bsc,AI ,AI / WBNB,https://www.geckoterminal.com//bsc/pools/0xbacbea108e060aeb3aa4bd55bf46534bdde6f6b7,0xbacbea108e060aeb3aa4bd55bf46534bdde6f6b7,93860
+bsc,STA ,STA / USDT,https://www.geckoterminal.com//bsc/pools/0x47830b76ed49041f10b3c983bc6916688d81c195,0x47830b76ed49041f10b3c983bc6916688d81c195,86170
+bsc,wROSE ,wROSE / USDT 0.05%,https://www.geckoterminal.com//bsc/pools/0x9dd70024ff211ba754c089cdee47bdedc17c4cbe,0x9dd70024ff211ba754c089cdee47bdedc17c4cbe,290380
+bsc,SEN ,SEN / WBNB,https://www.geckoterminal.com//bsc/pools/0xc54aa5694cd8bd419ac3bba11ece94aa6c5f9b01,0xc54aa5694cd8bd419ac3bba11ece94aa6c5f9b01,76270
+bsc,HERO ,HERO / WBNB,https://www.geckoterminal.com//bsc/pools/0xe267018c943e77992e7e515724b07b9ce7938124,0xe267018c943e77992e7e515724b07b9ce7938124,17610000
+bsc,AIOZ ,AIOZ / WBNB 0.25%,https://www.geckoterminal.com//bsc/pools/0x80968a476e0235a026fd1f33aaac5a3b7b76110f,0x80968a476e0235a026fd1f33aaac5a3b7b76110f,2980000
+bsc,TVS ,TVS / USDT,https://www.geckoterminal.com//bsc/pools/0x80371179d771c0fa47ee11f7bb8050afa06e1fe1,0x80371179d771c0fa47ee11f7bb8050afa06e1fe1,152860
+bsc,VELO ,VELO / WBNB 0.3%,https://www.geckoterminal.com//bsc/pools/0xb1a1b707b143b911c36e1a0f4f901c5017791aca,0x9b200ed4ada40e2642ad1bca621c538fbfb8bb9e,167370
+bsc,RDNT ,RDNT / WBNB,https://www.geckoterminal.com//bsc/pools/0x346575fc7f07e6994d76199e41d13dc1575322e1,0x346575fc7f07e6994d76199e41d13dc1575322e1,19590000
+bsc,BFG ,BFG / USDT,https://www.geckoterminal.com//bsc/pools/0xe0625903565bfcdd738b7ab9b156cb14dc9977b3,0xe0625903565bfcdd738b7ab9b156cb14dc9977b3,1570000
+bsc,USDC ,USDC / WBNB 0.01%,https://www.geckoterminal.com//bsc/pools/0xf2688fb5b81049dfb7703ada5e770543770612c4,0xf2688fb5b81049dfb7703ada5e770543770612c4,911620
+bsc,10SET ,10SET / WBNB,https://www.geckoterminal.com//bsc/pools/0x78b7220f37b8f6e30d03018558b0c8c4430662c7,0x78b7220f37b8f6e30d03018558b0c8c4430662c7,6430000
+bsc,Bonk ,Bonk / WBNB 1%,https://www.geckoterminal.com//bsc/pools/0x1a1703bf5f1da9db0f62d17e8c54e84fd732d695,0x1a1703bf5f1da9db0f62d17e8c54e84fd732d695,912930
+bsc,WECO ,WECO / WBNB,https://www.geckoterminal.com//bsc/pools/0x3db79a359faae786a10950e6811f320bd11145cf,0x3db79a359faae786a10950e6811f320bd11145cf,350840
+bsc,DOT ,DOT / WBNB 0.25%,https://www.geckoterminal.com//bsc/pools/0x62f0546cbcd684f7c394d8549119e072527c41bc,0x62f0546cbcd684f7c394d8549119e072527c41bc,671180
+bsc,QANX ,QANX / WBNB,https://www.geckoterminal.com//bsc/pools/0x21597370c2b598c4e781bb7368fddeaaabb38789,0x21597370c2b598c4e781bb7368fddeaaabb38789,659250
+bsc,KOIN ,KOIN / WBNB,https://www.geckoterminal.com//bsc/pools/0x8dac3ecd537c88063755453e11ff1e14697eefb8,0x8dac3ecd537c88063755453e11ff1e14697eefb8,233370
+bsc,FLIGHT ,FLIGHT / USDT,https://www.geckoterminal.com//bsc/pools/0x8ad5796104401429aedf340923cd52de5bee4088,0x8ad5796104401429aedf340923cd52de5bee4088,484440
+bsc,SQUID ,SQUID / WBNB,https://www.geckoterminal.com//bsc/pools/0x009578c91568cce4c174fd77b33569d6dc82b7b5,0x009578c91568cce4c174fd77b33569d6dc82b7b5,117970
+bsc,WSI ,WSI / WBNB,https://www.geckoterminal.com//bsc/pools/0x84773b2b98613c88834b450af42aec37a232db4f,0x84773b2b98613c88834b450af42aec37a232db4f,420220
+bsc,BABY ,BABY / WBNB,https://www.geckoterminal.com//bsc/pools/0x36ae10a4d16311959b607ee98bc4a8a653a33b1f,0x36ae10a4d16311959b607ee98bc4a8a653a33b1f,1190000
+bsc,ULX ,ULX / USDT,https://www.geckoterminal.com//bsc/pools/0xa8a00390645a5821a381b8cf0603f740dd6ff6d0,0xa8a00390645a5821a381b8cf0603f740dd6ff6d0,1340000
+bsc,PATEX ,PATEX / USDT 0.25%,https://www.geckoterminal.com//bsc/pools/0xc9b80fae26aa04f2e914cfa1773b3b61a02222c7,0xc9b80fae26aa04f2e914cfa1773b3b61a02222c7,167820
+bsc,Bin4nce ,Bin4nce / WBNB,https://www.geckoterminal.com//bsc/pools/0x724696a86abab3de74aac24696e8db31ac50fb82,0x724696a86abab3de74aac24696e8db31ac50fb82,1580000
+bsc,DCK ,DCK / BUSD 0.25%,https://www.geckoterminal.com//bsc/pools/0xd465d9c13c43003f5b874e0d96a6030336ed50eb,0xd465d9c13c43003f5b874e0d96a6030336ed50eb,281800
+bsc,DEBT ,DEBT / USDT,https://www.geckoterminal.com//bsc/pools/0xbe46815e0f0123ad626b82a0166eaa32274104f5,0xbe46815e0f0123ad626b82a0166eaa32274104f5,5990000
+bsc,LIME ,LIME / WBNB,https://www.geckoterminal.com//bsc/pools/0x7fcf9b7f973fac79fb20aaa11095314f1dd9d3b8,0x7fcf9b7f973fac79fb20aaa11095314f1dd9d3b8,541080
+bsc,SERSH ,SERSH / USDT,https://www.geckoterminal.com//bsc/pools/0xe18eb2ce0c0b6ef1a66dd4ac7ac439790d70e9f4,0xe18eb2ce0c0b6ef1a66dd4ac7ac439790d70e9f4,288880
+bsc,MARU ,MARU / WBNB,https://www.geckoterminal.com//bsc/pools/0xee8f63b573b385bc712845303528fd5927dab977,0xee8f63b573b385bc712845303528fd5927dab977,1400000
+bsc,PRZS ,PRZS / WBNB,https://www.geckoterminal.com//bsc/pools/0xe2f4a4534133beacd8542f404f8c9d5135fbaf0e,0xe2f4a4534133beacd8542f404f8c9d5135fbaf0e,171690
+bsc,TRAVA ,TRAVA / WBNB,https://www.geckoterminal.com//bsc/pools/0x865c77d4ff6383e06c58350a2cfb95cca2c0f056,0x865c77d4ff6383e06c58350a2cfb95cca2c0f056,192410
+bsc,SnBNB ,SnBNB / WBNB 0.05%,https://www.geckoterminal.com//bsc/pools/0x9474e972f49605315763c296b122cbb998b615cf,0x9474e972f49605315763c296b122cbb998b615cf,3730000
+bsc,ANDY ,ANDY / WBNB,https://www.geckoterminal.com//bsc/pools/0x9f29dcf762398e706aefa05d0b63d97771d830ab,0x9f29dcf762398e706aefa05d0b63d97771d830ab,68260
+bsc,TX20 ,TX20 / USDT 0.25%,https://www.geckoterminal.com//bsc/pools/0x50eb5abce5f631a0a23f3efb7a77f9f7b95f6fba,0x50eb5abce5f631a0a23f3efb7a77f9f7b95f6fba,104090
+bsc,FDUSD ,FDUSD / USDT 0.01%,https://www.geckoterminal.com//bsc/pools/0xbf72b6485e4b31601afe7b0a1210be2004d2b1d6,0xbf72b6485e4b31601afe7b0a1210be2004d2b1d6,2049999
+bsc,APP ,APP / USDT,https://www.geckoterminal.com//bsc/pools/0x9e1234266f5ebc3620fa289fdcb61c761307fdf0,0x9e1234266f5ebc3620fa289fdcb61c761307fdf0,238490
+bsc,OSEAN ,OSEAN / WBNB,https://www.geckoterminal.com//bsc/pools/0x8a7292e9ba068ec5221e4b5d491251a5b06762cc,0x8a7292e9ba068ec5221e4b5d491251a5b06762cc,242390
+bsc,SquidGrow ,SquidGrow / WBNB,https://www.geckoterminal.com//bsc/pools/0x261fcc20594b1daf11de8ef326121a00268cd2bc,0x261fcc20594b1daf11de8ef326121a00268cd2bc,1850000
+bsc,ALICE ,ALICE / WBNB,https://www.geckoterminal.com//bsc/pools/0xcad7019d6d84a3294b0494aef02e73bd0f2572eb,0xcad7019d6d84a3294b0494aef02e73bd0f2572eb,186510
+bsc,BEFE ,BEFE / WBNB,https://www.geckoterminal.com//bsc/pools/0xd8a8f60f40ae43e814f9f6aa21ba16738e6d7272,0xd8a8f60f40ae43e814f9f6aa21ba16738e6d7272,148240
+bsc,LUNA ,LUNA / USDT,https://www.geckoterminal.com//bsc/pools/0x34c422989df98e8369f28eb9799eac1be2df70d0,0x34c422989df98e8369f28eb9799eac1be2df70d0,93990
+bsc,QUACK ,QUACK / WBNB,https://www.geckoterminal.com//bsc/pools/0x2681d05c2de74a3ddf40e608d063495db32cfce4,0x2681d05c2de74a3ddf40e608d063495db32cfce4,4970000
+bsc,TIME ,TIME / WBNB,https://www.geckoterminal.com//bsc/pools/0xa5ebd19961cf4b8af06a9d9d2b91d73b48744867,0xa5ebd19961cf4b8af06a9d9d2b91d73b48744867,647060
+bsc,TKO ,TKO / WBNB,https://www.geckoterminal.com//bsc/pools/0xffd4b200d3c77a0b691b5562d804b3bd54294e6e,0xffd4b200d3c77a0b691b5562d804b3bd54294e6e,229420
+bsc,DECHAT ,DECHAT / USDT 1%,https://www.geckoterminal.com//bsc/pools/0x1cf977828364c597a4a80779a3a5eb8fb673a845,0x1cf977828364c597a4a80779a3a5eb8fb673a845,336800
+bsc,STRX ,STRX / WBNB,https://www.geckoterminal.com//bsc/pools/0x472e71c0e729cbe32b883502f833e6e8f2cd78d2,0x472e71c0e729cbe32b883502f833e6e8f2cd78d2,1500000
+bsc,PIT ,PIT / WBNB,https://www.geckoterminal.com//bsc/pools/0xb450cbf17f6723ef9c1bf3c3f0e0aba368d09bf5,0xb450cbf17f6723ef9c1bf3c3f0e0aba368d09bf5,10930000
+bsc,GMR ,GMR / WBNB,https://www.geckoterminal.com//bsc/pools/0xe4110c22efadf023482f6f28a35c458291d05c2f,0xe4110c22efadf023482f6f28a35c458291d05c2f,113120
+bsc,MAMO ,MAMO / USDT,https://www.geckoterminal.com//bsc/pools/0xb1eafe2e959a661f282e71d361da47d40c741a39,0xb1eafe2e959a661f282e71d361da47d40c741a39,76750
+bsc,CHEEL ,CHEEL / USDT,https://www.geckoterminal.com//bsc/pools/0xfe155cbbb949e3594146ddcee3b3fae4b6321aa7,0xfe155cbbb949e3594146ddcee3b3fae4b6321aa7,697280
+bsc,WSM ,WSM / WBNB 1%,https://www.geckoterminal.com//bsc/pools/0x84f3ca9b7a1579ff74059bd0e8929424d3fa330e,0xf420603317a0996a3fce1b1a80993eaef6f7ae1a,1030000
+bsc,XWG ,XWG / USDC,https://www.geckoterminal.com//bsc/pools/0x936928146a21afccd30dfa84824a780572b1630b,0x936928146a21afccd30dfa84824a780572b1630b,277350
+bsc,BIBI ,BIBI / WBNB,https://www.geckoterminal.com//bsc/pools/0xbabfb8eac3d264e5e55a22f7bd83e73aa3227e9f,0xbabfb8eac3d264e5e55a22f7bd83e73aa3227e9f,757930
+bsc,LOVELY ,LOVELY / WBNB,https://www.geckoterminal.com//bsc/pools/0xbee4b88c14e88cf014c03b95d9ab8c88f846cb01,0xbee4b88c14e88cf014c03b95d9ab8c88f846cb01,299470
+bsc,CATE ,CATE / WBNB,https://www.geckoterminal.com//bsc/pools/0x6c6636eada7cc046c7a83aea0d973810234ec291,0x6c6636eada7cc046c7a83aea0d973810234ec291,4720000
+bsc,ELEPHANT ,ELEPHANT / WBNB,https://www.geckoterminal.com//bsc/pools/0x1cea83ec5e48d9157fcae27a19807bef79195ce1,0x1cea83ec5e48d9157fcae27a19807bef79195ce1,49760000
+bsc,SAKAI ,SAKAI / USDT,https://www.geckoterminal.com//bsc/pools/0x8f7c9e89081be74541bbc07907a4d6cd07dd452c,0x8f7c9e89081be74541bbc07907a4d6cd07dd452c,2060000
+bsc,LINA ,LINA / BUSD,https://www.geckoterminal.com//bsc/pools/0xc5768c5371568cf1114cddd52caed163a42626ed,0xc5768c5371568cf1114cddd52caed163a42626ed,67830
+bsc,WKC ,WKC / WBNB,https://www.geckoterminal.com//bsc/pools/0x933477eba23726ca95a957cb85dbb1957267ef85,0x933477eba23726ca95a957cb85dbb1957267ef85,317110
+bsc,MANIA ,MANIA / USDT,https://www.geckoterminal.com//bsc/pools/0x0891013f2730c00081e421ef55f67c7b645a7551,0x0891013f2730c00081e421ef55f67c7b645a7551,190820
+bsc,RITE ,RITE / USDT 0.01%,https://www.geckoterminal.com//bsc/pools/0x08dc101cf49561cdabc031f63d9f82085e0c9201,0x08dc101cf49561cdabc031f63d9f82085e0c9201,441500
+bsc,SOL ,SOL / WBNB 0.25%,https://www.geckoterminal.com//bsc/pools/0x1e4600929edf7f36b4a7eac4c7571057d82a246c,0x1e4600929edf7f36b4a7eac4c7571057d82a246c,2880000
+bsc,TRX ,TRX / USDT,https://www.geckoterminal.com//bsc/pools/0x1f7df58c60a56bc8322d3e42d7d37a0383d42746,0x1f7df58c60a56bc8322d3e42d7d37a0383d42746,137210
+bsc,CUT ,CUT / WBNB,https://www.geckoterminal.com//bsc/pools/0x87b54ceb4fe7dadea9894b8fdadec1b21e27eb6f,0x87b54ceb4fe7dadea9894b8fdadec1b21e27eb6f,220520
+bsc,ACT ,ACT / BUSD,https://www.geckoterminal.com//bsc/pools/0xa5cf212d889dc9c05d47924cf2e909fb50df928f,0xa5cf212d889dc9c05d47924cf2e909fb50df928f,596760
+bsc,NLC ,NLC / WBNB,https://www.geckoterminal.com//bsc/pools/0x69d5b8870406617ccfb59c6a97d64bb8b8b40e2f,0x69d5b8870406617ccfb59c6a97d64bb8b8b40e2f,78650
+bsc,HGPT ,HGPT / USDT 0.25%,https://www.geckoterminal.com//bsc/pools/0x9b876d740f75efc07aa4aacd5f4d938cab7b5d0c,0x9b876d740f75efc07aa4aacd5f4d938cab7b5d0c,290050
+bsc,DUEL ,DUEL / WBNB,https://www.geckoterminal.com//bsc/pools/0x0d1f262810ea74bf501f439ee60f59e1352191dc,0x0d1f262810ea74bf501f439ee60f59e1352191dc,615180
+bsc,BEES ,BEES / WBNB,https://www.geckoterminal.com//bsc/pools/0xbd3285fc029eb16d1a74d2489fc41b008057f706,0xbd3285fc029eb16d1a74d2489fc41b008057f706,55790
+bsc,INJ ,INJ / WBNB,https://www.geckoterminal.com//bsc/pools/0x1bdcebca3b93af70b58c41272aea2231754b23ca,0x1bdcebca3b93af70b58c41272aea2231754b23ca,680700
+bsc,FIST ,FIST / USDT,https://www.geckoterminal.com//bsc/pools/0xb4ec801aed8c92f2e69589518aaa127afb37d8c9,0xb4ec801aed8c92f2e69589518aaa127afb37d8c9,697040
+bsc,COPI ,COPI / WBNB,https://www.geckoterminal.com//bsc/pools/0x73eda54a43c6a3d08ee30b089ef4c1bc3d0d4d9b,0x73eda54a43c6a3d08ee30b089ef4c1bc3d0d4d9b,2230000
+bsc,BVSD ,BVSD / USDT 1%,https://www.geckoterminal.com//bsc/pools/0xa51da87491f9bcd649ef8f89d07e07526a659509,0xa51da87491f9bcd649ef8f89d07e07526a659509,301420
+bsc,CHONK ,CHONK / WBNB,https://www.geckoterminal.com//bsc/pools/0xd4fb8116f3aca9d77636ab6fce263280a66c6ec1,0xd4fb8116f3aca9d77636ab6fce263280a66c6ec1,67450
+bsc,BSW ,BSW / WBNB 0.28%,https://www.geckoterminal.com//bsc/pools/0xeeb5418612fb39d5920b265794d2e527fe09b763,0xeeb5418612fb39d5920b265794d2e527fe09b763,902690
+bsc,THG ,THG / WBNB,https://www.geckoterminal.com//bsc/pools/0x486697ae24469cb1122f537924aa46e705b142aa,0x486697ae24469cb1122f537924aa46e705b142aa,514720
+bsc,GFAL ,GFAL / USDT,https://www.geckoterminal.com//bsc/pools/0xb3db5f4f4dbdb6d75aa7c2dce23ecd2d1b557a54,0xb3db5f4f4dbdb6d75aa7c2dce23ecd2d1b557a54,1170000
+bsc,TLM ,TLM / WBNB,https://www.geckoterminal.com//bsc/pools/0xe6b421a4408c82381b226ab5b6f8c4b639044359,0xe6b421a4408c82381b226ab5b6f8c4b639044359,116820
+bsc,KAS ,KAS / USDT 0.25%,https://www.geckoterminal.com//bsc/pools/0x92fb8463ac6bc0f700b20cd67cdee7c753947f66,0x92fb8463ac6bc0f700b20cd67cdee7c753947f66,64010
+bsc,DEXNET ,DEXNET / USDT 0.25%,https://www.geckoterminal.com//bsc/pools/0x455024fea6e6bdeb9fe4d11ec6039a728343a600,0x455024fea6e6bdeb9fe4d11ec6039a728343a600,128490
+bsc,GHX ,GHX / WBNB,https://www.geckoterminal.com//bsc/pools/0x2e09388c85240cceed0bf867ce0ada54fdc7598f,0x2e09388c85240cceed0bf867ce0ada54fdc7598f,971070
+bsc,RGAME ,RGAME / WBNB,https://www.geckoterminal.com//bsc/pools/0x217ddb9de4665734f6ea6452b14dab2786a2b1a8,0x217ddb9de4665734f6ea6452b14dab2786a2b1a8,174260
+bsc,HIGH ,HIGH / BUSD,https://www.geckoterminal.com//bsc/pools/0xcd254486fb8f5a776d8780504b87a55b80c669dc,0xcd254486fb8f5a776d8780504b87a55b80c669dc,204010
+bsc,WSPP ,WSPP / WBNB,https://www.geckoterminal.com//bsc/pools/0x31fdf4333d2edcadcebd25edd7dabcb73b27e851,0x31fdf4333d2edcadcebd25edd7dabcb73b27e851,171110
+bsc,Fwc ,Fwc / WBNB,https://www.geckoterminal.com//bsc/pools/0x32dea04d0579387f869e26c7e051dd80b24d76c0,0x32dea04d0579387f869e26c7e051dd80b24d76c0,404870
+bsc,axlLqdr ,axlLqdr / WBNB 0.345%,https://www.geckoterminal.com//bsc/pools/0x8171e3aa02f684bd4e8e04dad286451318cf27a9,0x8171e3aa02f684bd4e8e04dad286451318cf27a9,182560
+bsc,PZP ,PZP / USDT 0.25%,https://www.geckoterminal.com//bsc/pools/0x01bac48d8309555843fdbb11aa647fe2e292522e,0x01bac48d8309555843fdbb11aa647fe2e292522e,133760
+bsc,PAID ,PAID / WBNB 1%,https://www.geckoterminal.com//bsc/pools/0xbf185cccda42a4e384bc27ed9b27b6444d5f4843,0xbf185cccda42a4e384bc27ed9b27b6444d5f4843,1290000
+bsc,SCLP ,SCLP / WBNB,https://www.geckoterminal.com//bsc/pools/0xbf8bcbac68ffbf09abb4befedcd39e991ef1793d,0xbf8bcbac68ffbf09abb4befedcd39e991ef1793d,389280
+bsc,CEEK ,CEEK / WBNB,https://www.geckoterminal.com//bsc/pools/0x119d6ebe840966c9cf4ff6603e76208d30ba2179,0x119d6ebe840966c9cf4ff6603e76208d30ba2179,647680
+bsc,NPT ,NPT / WBNB,https://www.geckoterminal.com//bsc/pools/0xb00a22be0b46b4767186d41a39369b5d86dfb57f,0xb00a22be0b46b4767186d41a39369b5d86dfb57f,100780
+bsc,DOGECOIN ,DOGECOIN / WBNB,https://www.geckoterminal.com//bsc/pools/0x3041b5fa21f107411f4b3cf4f07a316b847ac218,0x3041b5fa21f107411f4b3cf4f07a316b847ac218,539210

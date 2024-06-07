@@ -1,0 +1,109 @@
+network,base_token,pool_name,pool_link,pool_address,liquidity_in_usd
+arbitrum,ARB ,ARB / WETH 0.05%,https://www.geckoterminal.com//arbitrum/pools/0xc6f780497a95e246eb9449f5e4770916dcd6396a,0xc6f780497a95e246eb9449f5e4770916dcd6396a,9960000
+arbitrum,USDC ,USDC / WETH 0.05%,https://www.geckoterminal.com//arbitrum/pools/0xc6962004f452be9203591991d15f6b388e09e8d0,0xc6962004f452be9203591991d15f6b388e09e8d0,40350000
+arbitrum,GMX ,GMX / WETH 0.3%,https://www.geckoterminal.com//arbitrum/pools/0x1aeedd3727a6431b8f070c0afaa81cc74f273882,0x80a9ae39310abf666a87c743d6ebbd0e8c42158e,29250000
+arbitrum,WBTC ,WBTC / WETH 0.05%,https://www.geckoterminal.com//arbitrum/pools/0x2f5e87c9312fa29aed5c179e456625d79015299c,0x2f5e87c9312fa29aed5c179e456625d79015299c,44110000
+arbitrum,WETH ,WETH / USDT 0.05%,https://www.geckoterminal.com//arbitrum/pools/0x641c00a822e8b671738d32a431a4fb6074e5c79d,0x641c00a822e8b671738d32a431a4fb6074e5c79d,13910000
+arbitrum,TIA.n ,TIA.n / WETH,https://www.geckoterminal.com//arbitrum/pools/0xb57ead49ed94ead81bc8d20eeb90e9758bd88b33,0xb57ead49ed94ead81bc8d20eeb90e9758bd88b33,328710
+arbitrum,AIDOGE ,AIDOGE / WETH,https://www.geckoterminal.com//arbitrum/pools/0x6a78e84fa0edad4d99eb90edc041cdbf85925961,0x6a78e84fa0edad4d99eb90edc041cdbf85925961,3860000
+arbitrum,PENDLE ,PENDLE / WETH 0.3%,https://www.geckoterminal.com//arbitrum/pools/0xdbaeb7f0dfe3a0aafd798ccecb5b22e708f7852c,0xdbaeb7f0dfe3a0aafd798ccecb5b22e708f7852c,7130000
+arbitrum,PNP ,PNP / WETH 1.409%,https://www.geckoterminal.com//arbitrum/pools/0x13bc35d101b646cf1f566f95077e67a9f5b301a3,0x13bc35d101b646cf1f566f95077e67a9f5b301a3,2420000
+arbitrum,Boop ,Boop / WETH,https://www.geckoterminal.com//arbitrum/pools/0x184fb097196a4e2be8dfd44b341cb7d13b41ea7e,0x184fb097196a4e2be8dfd44b341cb7d13b41ea7e,474800
+arbitrum,XAI ,XAI / WETH 0.3%,https://www.geckoterminal.com//arbitrum/pools/0x03a33aee5f4947b9c1cde042c5f037d1be304be7,0x03a33aee5f4947b9c1cde042c5f037d1be304be7,548650
+arbitrum,LPT ,LPT / WETH 0.3%,https://www.geckoterminal.com//arbitrum/pools/0x4fd47e5102dfbf95541f64ed6fe13d4ed26d2546,0x4fd47e5102dfbf95541f64ed6fe13d4ed26d2546,884370
+arbitrum,GNS ,GNS / WETH 0.3%,https://www.geckoterminal.com//arbitrum/pools/0xc91b7b39bbb2c733f0e7459348fd0c80259c8471,0xa394070a679bef332d288ba5b0c04d5f43c6b186,409650
+arbitrum,RDNT ,RDNT / WETH 0.5%,https://www.geckoterminal.com//arbitrum/pools/0x32df62dc3aed2cd6224193052ce665dc18165841,0x32df62dc3aed2cd6224193052ce665dc18165841,42120000
+arbitrum,GRT ,GRT / WETH 0.3%,https://www.geckoterminal.com//arbitrum/pools/0x74d0ae8b8e1fca6039707564704a25ad2ee036b0,0x74d0ae8b8e1fca6039707564704a25ad2ee036b0,2370000
+arbitrum,pogai ,pogai / WETH 1%,https://www.geckoterminal.com//arbitrum/pools/0x1862200e8e7ce1c0827b792d0f9546156f44f892,0x8da66e470403b3d3eee66c67e2c61fda6e248ad1,1530000
+arbitrum,DMT ,DMT / USDC 1.036%,https://www.geckoterminal.com//arbitrum/pools/0xe4e4aea5150f0fa2b302b7b69427ecfb2a56133a,0xe4e4aea5150f0fa2b302b7b69427ecfb2a56133a,2020000
+arbitrum,MAGIC ,MAGIC / WETH,https://www.geckoterminal.com//arbitrum/pools/0xb7e50106a5bd3cf21af210a755f9c8740890a8c9,0xb7e50106a5bd3cf21af210a755f9c8740890a8c9,9530000
+arbitrum,fUSDC ,fUSDC / USDC 0.005%,https://www.geckoterminal.com//arbitrum/pools/0xac07ed4cbdda2cb17f9aeca2919c825dcb2882b9,0xac07ed4cbdda2cb17f9aeca2919c825dcb2882b9,59610
+arbitrum,HMX ,HMX / WETH 0.3%,https://www.geckoterminal.com//arbitrum/pools/0x05bbaaa020ff6bea107a9a1e06d2feb7bfd79ed2,0x05bbaaa020ff6bea107a9a1e06d2feb7bfd79ed2,1510000
+arbitrum,BPET ,BPET / WETH 1%,https://www.geckoterminal.com//arbitrum/pools/0xd02a4969dc12bb889754361f8bcf3385ac1b2077,0xd02a4969dc12bb889754361f8bcf3385ac1b2077,817880
+arbitrum,LINK ,LINK / WETH 0.3%,https://www.geckoterminal.com//arbitrum/pools/0x468b88941e7cc0b88c1869d68ab6b570bcef62ff,0x468b88941e7cc0b88c1869d68ab6b570bcef62ff,4160000
+arbitrum,XPET ,XPET / WETH 0.3%,https://www.geckoterminal.com//arbitrum/pools/0xa67f72f21bd9f91db2da2d260590da5e6c437009,0xa67f72f21bd9f91db2da2d260590da5e6c437009,2950000
+arbitrum,NST ,NST / WETH 0.3%,https://www.geckoterminal.com//arbitrum/pools/0x53d3e59faac08184720bcb2816f4cf5b36d6767d,0x53d3e59faac08184720bcb2816f4cf5b36d6767d,572160
+arbitrum,wstETH ,wstETH / WETH 0.01%,https://www.geckoterminal.com//arbitrum/pools/0x35218a1cbac5bbc3e57fd9bd38219d37571b3537,0x35218a1cbac5bbc3e57fd9bd38219d37571b3537,8470000
+arbitrum,GTA ,GTA / USDT,https://www.geckoterminal.com//arbitrum/pools/0x0a4f9962e24893a4a7567e52c1ce37d5482365de,0x0a4f9962e24893a4a7567e52c1ce37d5482365de,1030000
+arbitrum,KNOW ,KNOW / WETH,https://www.geckoterminal.com//arbitrum/pools/0xc49e1238820a53844efb1b935430bcbdea1dbb7c,0xc49e1238820a53844efb1b935430bcbdea1dbb7c,166980
+arbitrum,WINR ,WINR / USDC 1.007%,https://www.geckoterminal.com//arbitrum/pools/0xc35aa1cec34e02a8acc3e5f79c22be364823094c,0xc35aa1cec34e02a8acc3e5f79c22be364823094c,4320000
+arbitrum,USDT ,USDT / USDC,https://www.geckoterminal.com//arbitrum/pools/0x0242dd3b2e792cdbd399cc6195951bc202aee97b,0x960ea3e3c7fb317332d990873d354e18d7645590,1880000
+arbitrum,JOE ,JOE / WETH,https://www.geckoterminal.com//arbitrum/pools/0x4b9bfed1dd4e6780454b2b02213788f31ffba74a,0x4b9bfed1dd4e6780454b2b02213788f31ffba74a,51590
+arbitrum,GSWIFT ,GSWIFT / USDC,https://www.geckoterminal.com//arbitrum/pools/0x5f6b6c3eec0126a4f3c57d68ca491ac95b149556,0x5f6b6c3eec0126a4f3c57d68ca491ac95b149556,1020000
+arbitrum,EMC ,EMC / USDT 0.3%,https://www.geckoterminal.com//arbitrum/pools/0x47b6de853d181626918eecb1e0ed946a5cf96449,0x47b6de853d181626918eecb1e0ed946a5cf96449,1090000
+arbitrum,DAI ,DAI / USDT 0.01%,https://www.geckoterminal.com//arbitrum/pools/0x7f580f8a02b759c350e6b8340e7c2d4b8162b6a9,0x7f580f8a02b759c350e6b8340e7c2d4b8162b6a9,938510
+arbitrum,rsETH ,rsETH / WETH 0.01%,https://www.geckoterminal.com//arbitrum/pools/0x48b0ab72c2591849e678e7d6f272b75ef9b863f7,0x48b0ab72c2591849e678e7d6f272b75ef9b863f7,4410000
+arbitrum,MGP ,MGP / WETH 0.25%,https://www.geckoterminal.com//arbitrum/pools/0x5e3c3a063cc9a4aeb5310c7fadc2a98aebdd245d,0x5e3c3a063cc9a4aeb5310c7fadc2a98aebdd245d,2290000
+arbitrum,GRIMACE ,GRIMACE / WETH 0.3%,https://www.geckoterminal.com//arbitrum/pools/0x58ce66f70e9ec93a1917b293eba487e6752299f2,0x58ce66f70e9ec93a1917b293eba487e6752299f2,124320
+arbitrum,RAM ,RAM / WETH 1%,https://www.geckoterminal.com//arbitrum/pools/0x688547381eec7c1d3d9eba778fe275d1d7e03946,0x4eec5b230e2f2f83dbac174b0bd6d406d13710b4,1510000
+arbitrum,MOZ ,MOZ / WETH 1.564%,https://www.geckoterminal.com//arbitrum/pools/0x25a9ea8b6698782ecd3707bb7626e606c46d75dd,0x25a9ea8b6698782ecd3707bb7626e606c46d75dd,871970
+arbitrum,W3N ,W3N / WETH,https://www.geckoterminal.com//arbitrum/pools/0xbfc41d69e3e828718b39ddc448b1050a82f84105,0xbfc41d69e3e828718b39ddc448b1050a82f84105,289200
+arbitrum,ECLIP ,ECLIP / WETH 1.084%,https://www.geckoterminal.com//arbitrum/pools/0x264bd241fcc0fa14803db2930d6bdbc6661afc27,0x264bd241fcc0fa14803db2930d6bdbc6661afc27,397730
+arbitrum,STAR ,STAR / WETH 0.3%,https://www.geckoterminal.com//arbitrum/pools/0xef54757816065d24c59b3ff202ef73460e55df55,0xef54757816065d24c59b3ff202ef73460e55df55,145810
+arbitrum,LADYS ,LADYS / WETH 0.3%,https://www.geckoterminal.com//arbitrum/pools/0x1371e3f8fb588a520d43e816cfbeb6e94078b5e6,0x1371e3f8fb588a520d43e816cfbeb6e94078b5e6,205110
+arbitrum,weETH ,weETH / WETH 0.01%,https://www.geckoterminal.com//arbitrum/pools/0x14353445c8329df76e6f15e9ead18fa2d45a8bb6,0x2d4bfb17db454cf582a74902c91fb09a3883a5cc,8359999
+arbitrum,VRTX ,VRTX / USDC 0.495%,https://www.geckoterminal.com//arbitrum/pools/0x3cf4cb6ce8cf3b147e6c444cf66526f5f0c16b92,0x3cf4cb6ce8cf3b147e6c444cf66526f5f0c16b92,284270
+arbitrum,ezETH ,ezETH / WETH 0.01%,https://www.geckoterminal.com//arbitrum/pools/0x40cc6f68400958bf7225e8a762d3ad41c1064086,0xb61371ab661b1acec81c699854d2f911070c059e,1410000
+arbitrum,GRAIL ,GRAIL / USDC 0.513%,https://www.geckoterminal.com//arbitrum/pools/0x8cc8093218bcac8b1896a1eed4d925f6f6ab289f,0x8cc8093218bcac8b1896a1eed4d925f6f6ab289f,8380000
+arbitrum,SIZE ,SIZE / WETH,https://www.geckoterminal.com//arbitrum/pools/0x19d51dc52e52407656b40b197b1bbe14294b955b,0x19d51dc52e52407656b40b197b1bbe14294b955b,345470
+arbitrum,KUJI ,KUJI / USDC 0.825%,https://www.geckoterminal.com//arbitrum/pools/0xd8043be1668fac205b9747e46d0c26c1eae2708f,0xd8043be1668fac205b9747e46d0c26c1eae2708f,76400
+arbitrum,BTC.b ,BTC.b / WBTC 0.05%,https://www.geckoterminal.com//arbitrum/pools/0xcf2f020eeee1c1774c86ea70691913ae5e8affcb,0xcf2f020eeee1c1774c86ea70691913ae5e8affcb,411860
+arbitrum,OMNI ,OMNI / WETH,https://www.geckoterminal.com//arbitrum/pools/0x75fa3be54d5b3571ed19f3eeace61fa1566ef948,0x75fa3be54d5b3571ed19f3eeace61fa1566ef948,350040
+arbitrum,DONUT ,DONUT / WETH 1%,https://www.geckoterminal.com//arbitrum/pools/0x65f7a98d87bc21a3748545047632fef4d3ff9a67,0x65f7a98d87bc21a3748545047632fef4d3ff9a67,90820
+arbitrum,STG ,STG / USDC 0.3%,https://www.geckoterminal.com//arbitrum/pools/0x3a4c6d2404b5eb14915041e01f63200a82f4a343,0x3a4c6d2404b5eb14915041e01f63200a82f4a343,1650000
+arbitrum,KNS ,KNS / WETH 0.01%,https://www.geckoterminal.com//arbitrum/pools/0x68c685fd52a56f04665b491d491355a624540e85,0x68c685fd52a56f04665b491d491355a624540e85,2040000
+arbitrum,WSG ,WSG / WETH 1%,https://www.geckoterminal.com//arbitrum/pools/0x07071612887e6b326b2a78d09533726650031b67,0x07071612887e6b326b2a78d09533726650031b67,132600
+arbitrum,PEPE ,PEPE / WETH 1%,https://www.geckoterminal.com//arbitrum/pools/0x1944ac04bd9fed9a2bcdb38b70c35949c864ec35,0x1944ac04bd9fed9a2bcdb38b70c35949c864ec35,256690
+arbitrum,APEX ,APEX / WETH 0.467%,https://www.geckoterminal.com//arbitrum/pools/0xd5ede52ddd347faf45f1345968b3ee4e579239b4,0xd5ede52ddd347faf45f1345968b3ee4e579239b4,626480
+arbitrum,axlUSDC ,axlUSDC / USDC 0.01%,https://www.geckoterminal.com//arbitrum/pools/0xaeeceec4b31d3c1057210115bf176ebb05b9805d,0xaeeceec4b31d3c1057210115bf176ebb05b9805d,454260
+arbitrum,UNI ,UNI / WETH 0.3%,https://www.geckoterminal.com//arbitrum/pools/0xc24f7d8e51a64dc1238880bd00bb961d54cbeb29,0xc24f7d8e51a64dc1238880bd00bb961d54cbeb29,988110
+arbitrum,ADoge ,ADoge / WETH,https://www.geckoterminal.com//arbitrum/pools/0x11eecdbd8f2d670016d061e4c064072e6158ede2,0x11eecdbd8f2d670016d061e4c064072e6158ede2,346470
+arbitrum,WNT ,WNT / USDT 0.3%,https://www.geckoterminal.com//arbitrum/pools/0x84c20145916b6f3cfaa9c14c32d37d9d5887188a,0x84c20145916b6f3cfaa9c14c32d37d9d5887188a,479860
+arbitrum,TRUF ,TRUF / WETH 1%,https://www.geckoterminal.com//arbitrum/pools/0xe32efff8f8b5fdc53803405aa3f623f03f8a8767,0xe32efff8f8b5fdc53803405aa3f623f03f8a8767,2029999
+arbitrum,WOO ,WOO / WETH,https://www.geckoterminal.com//arbitrum/pools/0xb87495219c432fc85161e4283dff131692a528bd,0xb87495219c432fc85161e4283dff131692a528bd,1760000
+arbitrum,VKA ,VKA / WETH 0.3%,https://www.geckoterminal.com//arbitrum/pools/0x7c06736e41236fecd681dd3353aa77ecd19ea565,0x7c06736e41236fecd681dd3353aa77ecd19ea565,914110
+arbitrum,SPARTA ,SPARTA / USDC,https://www.geckoterminal.com//arbitrum/pools/0x4993e9d7c2c76760ac1cbd1674d44152a59daaed,0x4993e9d7c2c76760ac1cbd1674d44152a59daaed,304260
+arbitrum,EQB ,EQB / WETH,https://www.geckoterminal.com//arbitrum/pools/0x69b545997bd6abc81cae39fe9bdc94d2242a0f92,0x69b545997bd6abc81cae39fe9bdc94d2242a0f92,717340
+arbitrum,ROSNET ,ROSNET / WETH 1%,https://www.geckoterminal.com//arbitrum/pools/0x0491830925ae61db25c01538874c8af9e53352de,0x0491830925ae61db25c01538874c8af9e53352de,141390
+arbitrum,FFM ,FFM / WETH 1%,https://www.geckoterminal.com//arbitrum/pools/0x87e641934d24ec19b8452ae9bba639e461d7517f,0x87e641934d24ec19b8452ae9bba639e461d7517f,601500
+arbitrum,ZTX ,ZTX / USDC 0.3%,https://www.geckoterminal.com//arbitrum/pools/0xe6ea93ba4ae9ee6520e55affebbdb38ed6c233a4,0xe6ea93ba4ae9ee6520e55affebbdb38ed6c233a4,104600
+arbitrum,FLY ,FLY / USDC 0.3%,https://www.geckoterminal.com//arbitrum/pools/0x66e433b898e299cd16dd724e99e11eecb3cbd55c,0x66e433b898e299cd16dd724e99e11eecb3cbd55c,63450
+arbitrum,GG ,GG / WETH 0.502%,https://www.geckoterminal.com//arbitrum/pools/0x6b4a958b6ac212ce35fddfb57ef4fae0a123ed0b,0x6b4a958b6ac212ce35fddfb57ef4fae0a123ed0b,616180
+arbitrum,USDEX+ ,USDEX+ / USDC,https://www.geckoterminal.com//arbitrum/pools/0x24129a6c5b700435cc0d1bd3500796f3fb9ebd49,0x24129a6c5b700435cc0d1bd3500796f3fb9ebd49,209470
+arbitrum,GAST ,GAST / USDT,https://www.geckoterminal.com//arbitrum/pools/0xbd7d96b4598e22ec5302232f6e7870a2d095caca,0xbd7d96b4598e22ec5302232f6e7870a2d095caca,276190
+arbitrum,ROSX ,ROSX / WETH,https://www.geckoterminal.com//arbitrum/pools/0x3d2d453b56f4c09950804fd5e42f12a4a237c5e6,0x3d2d453b56f4c09950804fd5e42f12a4a237c5e6,90040
+arbitrum,MOON ,MOON / WETH 1%,https://www.geckoterminal.com//arbitrum/pools/0x5e27a422ec06a57567a843fd65a1bbb06ac19fc0,0x5e27a422ec06a57567a843fd65a1bbb06ac19fc0,441500
+arbitrum,GNOME ,GNOME / WETH 1%,https://www.geckoterminal.com//arbitrum/pools/0x4762a162bb535b736b83d49a87b3e1ae3267c80c,0x4762a162bb535b736b83d49a87b3e1ae3267c80c,40840
+arbitrum,ARBS ,ARBS / WETH,https://www.geckoterminal.com//arbitrum/pools/0x62ac1705d1577ae6e4da1634ed571fef78cec3f9,0x62ac1705d1577ae6e4da1634ed571fef78cec3f9,57880
+arbitrum,OSAK ,OSAK / WETH 1%,https://www.geckoterminal.com//arbitrum/pools/0x899ad0e329cc9b4a00aacc1da3c445e416070d7f,0x899ad0e329cc9b4a00aacc1da3c445e416070d7f,221350
+arbitrum,PRY ,PRY / USDC,https://www.geckoterminal.com//arbitrum/pools/0x264e2900fdb1f2e28b7a35346acc650b3d235226,0x264e2900fdb1f2e28b7a35346acc650b3d235226,120010
+arbitrum,USDe ,USDe / USDC 0.04%,https://www.geckoterminal.com//arbitrum/pools/0xc23f308cf1bfa7efffb592920a619f00990f8d74,0xc23f308cf1bfa7efffb592920a619f00990f8d74,9920000
+arbitrum,HOLD ,HOLD / WETH 0.3%,https://www.geckoterminal.com//arbitrum/pools/0x299b378d1feeac8fec756f041ab1117f7d6c8df5,0x299b378d1feeac8fec756f041ab1117f7d6c8df5,65630
+arbitrum,G3 ,G3 / WETH 0.3%,https://www.geckoterminal.com//arbitrum/pools/0x7dfae4316f3e5758863a056b5b4c8be63c69915e,0x7dfae4316f3e5758863a056b5b4c8be63c69915e,431090
+arbitrum,Bonk ,Bonk / WETH 0.387%,https://www.geckoterminal.com//arbitrum/pools/0x90ad8c666f4ce24c822e6ead6b54f3be96351048,0x90ad8c666f4ce24c822e6ead6b54f3be96351048,95890
+arbitrum,SMOL ,SMOL / WETH,https://www.geckoterminal.com//arbitrum/pools/0x13bce500f21c92aed597aab2247cf27ca1116e30,0x13bce500f21c92aed597aab2247cf27ca1116e30,265240
+arbitrum,IBEX ,IBEX / WETH 1%,https://www.geckoterminal.com//arbitrum/pools/0x7334ea5733bed59ec3c83d57f3b974d1eb0a4255,0x7334ea5733bed59ec3c83d57f3b974d1eb0a4255,80070
+arbitrum,EMP ,EMP / WETH 1%,https://www.geckoterminal.com//arbitrum/pools/0x0ad1e922e764df5ab6d636f5d21ecc2e41e827f0,0x0ad1e922e764df5ab6d636f5d21ecc2e41e827f0,668550
+arbitrum,USX ,USX / 2CRV,https://www.geckoterminal.com//arbitrum/pools/0x2ce5fd6f6f4a159987eac99ff5158b7b62189acf,0x2ce5fd6f6f4a159987eac99ff5158b7b62189acf,8080000
+arbitrum,DPX ,DPX / WETH,https://www.geckoterminal.com//arbitrum/pools/0x0c1cf6883efa1b496b01f654e247b9b419873054,0x0c1cf6883efa1b496b01f654e247b9b419873054,725290
+arbitrum,crvUSD ,crvUSD / WBTC / WETH,https://www.geckoterminal.com//arbitrum/pools/0x82670f35306253222f8a165869b28c64739ac62e,0x82670f35306253222f8a165869b28c64739ac62e,4600000
+arbitrum,SUSHI ,SUSHI / WETH,https://www.geckoterminal.com//arbitrum/pools/0x3221022e37029923ace4235d812273c5a42c322d,0x3221022e37029923ace4235d812273c5a42c322d,131710
+arbitrum,TOOB ,TOOB / ARB 0.01%,https://www.geckoterminal.com//arbitrum/pools/0xf05a084075072b4cf113d97fc793d8f403f98269,0xf05a084075072b4cf113d97fc793d8f403f98269,46590
+arbitrum,CRYSTAL ,CRYSTAL / WETH 1%,https://www.geckoterminal.com//arbitrum/pools/0x84436a2af97f37018db116ae8e1b691666db3d00,0x84436a2af97f37018db116ae8e1b691666db3d00,748610
+arbitrum,REKT ,REKT / WETH 0.3%,https://www.geckoterminal.com//arbitrum/pools/0xaf1f6c3485ad1f1640267c402d3f2bf54c0b8dd0,0xaf1f6c3485ad1f1640267c402d3f2bf54c0b8dd0,61610
+arbitrum,XDAO ,XDAO / USDT 0.01%,https://www.geckoterminal.com//arbitrum/pools/0x50fcaa329d421621e704bed5193d63750ee519bc,0x50fcaa329d421621e704bed5193d63750ee519bc,63130
+arbitrum,cbETH ,cbETH / WETH 0.3%,https://www.geckoterminal.com//arbitrum/pools/0xed3fe08bd12f24dad0f1a1e58610644debe374fb,0xed3fe08bd12f24dad0f1a1e58610644debe374fb,54770
+arbitrum,SPELL ,SPELL / WETH,https://www.geckoterminal.com//arbitrum/pools/0x8f93eaae544e8f5eb077a1e09c1554067d9e2ca8,0x8f93eaae544e8f5eb077a1e09c1554067d9e2ca8,505800
+arbitrum,FRAX ,FRAX / USDC,https://www.geckoterminal.com//arbitrum/pools/0xc9b8a3fdecb9d5b218d02555a8baf332e5b740d5,0xc9b8a3fdecb9d5b218d02555a8baf332e5b740d5,4940000
+arbitrum,LDO ,LDO / WETH 0.3%,https://www.geckoterminal.com//arbitrum/pools/0x52f9d14bed8ce6536da063aaf274ae2747ef4853,0x52f9d14bed8ce6536da063aaf274ae2747ef4853,316910
+arbitrum,agEUR ,agEUR / USDC 0.05%,https://www.geckoterminal.com//arbitrum/pools/0xe4d9faddd9bca5d8393bee915dc56e916ab94d27,0xe4d9faddd9bca5d8393bee915dc56e916ab94d27,443880
+arbitrum,CRV ,CRV / WETH 0.3%,https://www.geckoterminal.com//arbitrum/pools/0xa95b0f5a65a769d82ab4f3e82842e45b8bbaf101,0xa95b0f5a65a769d82ab4f3e82842e45b8bbaf101,166860
+arbitrum,LUAUSD ,LUAUSD / LUA 1%,https://www.geckoterminal.com//arbitrum/pools/0x7890b9acf7d5d0fb77109d01af44faffc1d4aa16,0x7890b9acf7d5d0fb77109d01af44faffc1d4aa16,2480000
+arbitrum,RDP ,RDP / WETH 0.459%,https://www.geckoterminal.com//arbitrum/pools/0x73761531c5d72ed6f0fc07a07202c8024e16eed9,0x73761531c5d72ed6f0fc07a07202c8024e16eed9,488060
+arbitrum,Lqdr ,Lqdr / WETH,https://www.geckoterminal.com//arbitrum/pools/0xcd00d4e8314c0374229c4611464a36211b1b3fb5,0xcd00d4e8314c0374229c4611464a36211b1b3fb5,185530
+arbitrum,RDNT-WETH ,RDNT-WETH / plsRDNT-Stable / plsRDNT 0.3%,https://www.geckoterminal.com//arbitrum/pools/0x451b0afd69ace11ec0ac339033d54d2543b088a8,0x451b0afd69ace11ec0ac339033d54d2543b088a8,651380
+arbitrum,USDV ,USDV / USDC,https://www.geckoterminal.com//arbitrum/pools/0x53eccccaaa368a9431b3659a8e37ce4b411ad258,0x53eccccaaa368a9431b3659a8e37ce4b411ad258,888560
+arbitrum,BAL ,BAL / WETH 0.25%,https://www.geckoterminal.com//arbitrum/pools/0xcc65a812ce382ab909a11e434dbf75b34f1cc59d,0xcc65a812ce382ab909a11e434dbf75b34f1cc59d,188110
+arbitrum,frxETH ,frxETH / WETH,https://www.geckoterminal.com//arbitrum/pools/0x1deb3b1ca6afca0ff9c5ce9301950dc98ac0d523,0x1deb3b1ca6afca0ff9c5ce9301950dc98ac0d523,2800000
+arbitrum,tBTC ,tBTC / WBTC,https://www.geckoterminal.com//arbitrum/pools/0x755d6688ad74661add2fb29212ef9153d40fca46,0x755d6688ad74661add2fb29212ef9153d40fca46,1270000
+arbitrum,LOCUS ,LOCUS / WETH 0.302%,https://www.geckoterminal.com//arbitrum/pools/0xb20471df76d30f2cc361a20b03a63f93e9906338,0xb20471df76d30f2cc361a20b03a63f93e9906338,324450
